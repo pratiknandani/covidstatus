@@ -67,6 +67,13 @@
 
 a:link, a:visited,  a:hover, a:active
 {
-    color: #000000;
+    color: #ffffff;
     text-decoration: none;
 }
+
+.container 
+{  
+display: flex;  
+justify-content: center;  
+align-items: center;  
+}  
