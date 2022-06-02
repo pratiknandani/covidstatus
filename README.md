@@ -1,1 +1,1 @@
-# covidstatus
+# Projects
